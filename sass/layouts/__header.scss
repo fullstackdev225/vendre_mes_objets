@@ -1,0 +1,12 @@
+header{
+    .navbar{
+        .navbar-nav{
+            .nav-item{
+                .current{
+                    border: 2px solid $color-primary;
+                    background-color: $color-primary;
+                }
+            }
+        }
+    }
+}
